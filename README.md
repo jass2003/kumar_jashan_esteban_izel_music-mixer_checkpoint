@@ -15,7 +15,7 @@ Open index.html in the browser of your choice.
 5. Submit a pull request :D
 
 ## History
-February 1st, 2024
+February 8th, 2024
 
 ## Credits
 Jashan Kumar
