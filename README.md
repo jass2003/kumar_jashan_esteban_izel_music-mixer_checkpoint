@@ -32,7 +32,7 @@ Open index.html in the browser of your choice.
 February 8th, 2024
 
 ## Credits
-Jashan Kumar
+Jashan Kumar, Izel Esteban
 
 ## License
 MIT license
